@@ -1,7 +1,20 @@
 const $ = e=>document.querySelector(e);
+
 const licenses = {
+	"al2": "Apache License 2.0",
+	"ggpl3": "GNU General Public License v3.0",
 	"mit": "MIT License",
-	"unlicense": "Unlicense"
+	"b2c": "BSD 2-Clause \"Simplified\" License",
+	"b3c": "BSD 3-Clause \"New\" or \"Revised\" License",
+	"ccz1": "Create Commons Zero v1.0 Universal",
+	"epl2": "Eclipse Public License 2.0",
+	"ga3": "GNU Affero  General Public License v3.0",
+	"gg2": "GNU General Public License v2.0",
+	"gl2": "GNU Lesser General Public License v2.1",
+	"gl3": "GNU Lesser General Public License v3.0",
+	"mpl2": "Mozilla Public License 2.0"
+	"unlicense": "Unlicense",
+	"others": "License"
 }
 
 window.addEventListener("load",()=>{
