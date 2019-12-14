@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>README Maker</title>
+		<script src="./script.js"></script>
+		<link rel="stylesheet" href="./style.css">
+	</head>
+	<body>
+		<main>
+			<h1>README Maker</h1>
+			<p>This repo is not intent using from mobiles.</p>
+			<div>
+				<input tabindex="1" type="text" required pattern="[A-Za-z0-9-._]{1,}" name="repoName" id="repoName" placeholder="Repo Name">
+				<label for="repoName" class="placeholder">Repo Name</label>
+			</div>
+			<div>
+				<input tabindex="2" type="text" pattern=".+" name="projName" id="projName" placeholder="Project Name">
+				<label for="projName" class="placeholder">Project Name</label>
+			</div>
+			<div>
+				<select class="license" name="license">
+					<option selected value="mit">MIT License</option>
+					<option value="unlicense">Unlicense</option>
+				</select>
+				<label for="license">License</label>
+			</div>
+			<button type="button" class="create">Create</button>
+		</main>
+	</body>
+</html>
