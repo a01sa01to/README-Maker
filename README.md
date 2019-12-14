@@ -10,7 +10,7 @@ As the name suggests, this repo makes my README.md from templates.<br>
 ## How to Use
 
 1. Fork this Repo.
-2. Change `Template.md` as you like.
+2. Change `Template.md` and `script.js` as you like.
 3. Access to your GitHub Pages of the Repo.
 4. Create.
 5. Move the downloaded file to Repo.
