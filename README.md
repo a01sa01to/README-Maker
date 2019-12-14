@@ -15,12 +15,6 @@ As the name suggests, this repo makes my README.md from templates.<br>
 4. Create.
 5. Move the downloaded file to Repo.
 
-## Release
-
-[![Release](https://img.shields.io/github/v/release/a01sa01to/NervousBreakdown?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/README-Maker/releases)
-
-> Version 1.0 Released on 2019.12.14
-
 ## Author
 
 [![Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
