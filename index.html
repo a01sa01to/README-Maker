@@ -15,10 +15,12 @@
 				<input tabindex="1" type="text" required pattern="[A-Za-z0-9-._]{1,}" name="repoName" id="repoName" placeholder="Repo Name">
 				<label for="repoName" class="placeholder">Repo Name</label>
 			</div>
+			<p class="hint">Repo Name is what you made at GitHub.<br>Repository URL is "github.com/[USERNAME]/<b>[REPO NAME]</b>/"</p>
 			<div>
 				<input tabindex="2" type="text" pattern=".+" name="projName" id="projName" placeholder="Project Name">
 				<label for="projName" class="placeholder">Project Name</label>
 			</div>
+			<p class="hint">Project Name will be shown at the top of README.md</p>
 			<div>
 				<select class="license" name="license">
 					<option selected value="mit">MIT License</option>
@@ -26,6 +28,7 @@
 				</select>
 				<label for="license">License</label>
 			</div>
+			<p class="hint">Select the License.</p>
 			<button type="button" class="create">Create</button>
 		</main>
 	</body>
