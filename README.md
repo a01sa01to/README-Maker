@@ -15,6 +15,7 @@ As the name suggests, this repo makes my README.md from templates.<br>
 3. Access to your GitHub Pages of the Repo.
 4. Create.
 5. Move the downloaded file to Repo.
+6. Just in case, check the created README.md before you push to the repo.
 
 ## Author
 
