@@ -12,7 +12,7 @@ const licenses = {
 	"gg2": "GNU General Public License v2.0",
 	"gl2": "GNU Lesser General Public License v2.1",
 	"gl3": "GNU Lesser General Public License v3.0",
-	"mpl2": "Mozilla Public License 2.0"
+	"mpl2": "Mozilla Public License 2.0",
 	"unlicense": "Unlicense",
 	"others": "License"
 }
@@ -40,6 +40,9 @@ window.addEventListener("load",()=>{
 			    link.download = filename;
 			    link.click();
 			});
+		}
+		else{
+			alert("Please Input all.");
 		}
 		this.removeAttribute("disabled", "disabled");
 	});
