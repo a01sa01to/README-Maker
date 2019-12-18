@@ -5,23 +5,26 @@
 		<title>README Maker</title>
 		<script src="./script.js"></script>
 		<link rel="stylesheet" href="https://repos.a01sa01to.com/commonFiles/common.css">
+		<link rel="stylesheet" href="https://repos.a01sa01to.com/commonFiles/material/btn.css">
+		<link rel="stylesheet" href="https://repos.a01sa01to.com/commonFiles/material/input.css">
+		<link rel="stylesheet" href="https://repos.a01sa01to.com/commonFiles/material/select.css">
 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1">
 	</head>
 	<body>
 		<main>
 			<h1>README Maker</h1>
 			<p>This repo is not intent using from mobiles.</p>
-			<div>
+			<div class="material">
 				<input tabindex="1" type="text" required pattern="[A-Za-z0-9-._]{1,}" name="repoName" id="repoName" placeholder="Repo Name">
 				<label for="repoName" class="placeholder">Repo Name</label>
 			</div>
 			<p class="hint">Repo Name is what you made at GitHub.<br>Repository URL is "github.com/[USERNAME]/<b>[REPO NAME]</b>/"</p>
-			<div>
+			<div class="material">
 				<input tabindex="2" type="text" pattern=".+" name="projName" id="projName" placeholder="Project Name">
 				<label for="projName" class="placeholder">Project Name</label>
 			</div>
 			<p class="hint">Project Name will be shown at the top of README.md</p>
-			<div>
+			<div class="material">
 				<select class="license" name="license">
 					<option selected value="">Not Selected</option>
 					<option value="al2">Apache License 2.0</option>
