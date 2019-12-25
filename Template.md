@@ -4,9 +4,11 @@
 
 ## What's this?
 
+[Try now!](https://repos.a01sa01to.com/REPO/)
+
 ## Release
 
-[![Release](https://img.shields.io/github/v/release/a01sa01to/REPO?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/REPO/releases)
+[![Release](https://img.shields.io/github/v/release/a01sa01to/REPO?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/REPO/releases)<br>
 
 > Version 1.0 Released on XXXX.XX.XX
 
