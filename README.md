@@ -27,3 +27,8 @@ As the name suggests, this repo makes my README.md from templates.<br>
 
 This repo is under the MIT License.<br>
 See [LICENSE](https://github.com/a01sa01to/README-Maker/blob/master/LICENSE) File.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/a01sa01to/README-Maker/badge.svg?style=beer-square)](https://beerpay.io/a01sa01to/README-Maker)  [![Beerpay](https://beerpay.io/a01sa01to/README-Maker/make-wish.svg?style=flat-square)](https://beerpay.io/a01sa01to/README-Maker?focus=wish)
